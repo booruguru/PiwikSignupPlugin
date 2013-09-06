@@ -1,6 +1,6 @@
 #Piwik Signup Plugin
 
-[Stephan Miller](http://www.stephanmiller.com)
+Created by [Stephan Miller](http://www.stephanmiller.com)
 
 ##Installation and Setup
 1. Unzip the plugin file.
